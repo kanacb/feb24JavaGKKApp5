@@ -1,0 +1,9 @@
+JDBC exception executing SQL 
+[select jh1_0.id,jh1_0.department_id,
+jh1_0.employee_id,jh1_0.end_date,
+jh1_0.job_id,jh1_0.language,
+jh1_0.start_date 
+
+rom job_history jh1_0 where jh1_0.department_id=?] 
+
+[Table 'myapp.job_history' doesn't exist] [n/a]; SQL [n/a]]
